@@ -23,7 +23,7 @@ public class WelcomeServlet implements Servlet {
         ServletConfig config = getServletConfig();
         System.out.println("Hi Kudos");
         System.out.println("Okay");
-
+        System.out.println("Nutella");
     }
 
     @Override
